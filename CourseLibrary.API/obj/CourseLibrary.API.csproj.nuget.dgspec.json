@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary\\CourseLibrary.API\\CourseLibrary.API.csproj": {}
+    "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary - Advanced\\CourseLibrary.API\\CourseLibrary.API.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary\\CourseLibrary.API\\CourseLibrary.API.csproj": {
+    "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary - Advanced\\CourseLibrary.API\\CourseLibrary.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary\\CourseLibrary.API\\CourseLibrary.API.csproj",
+        "projectUniqueName": "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary - Advanced\\CourseLibrary.API\\CourseLibrary.API.csproj",
         "projectName": "CourseLibrary.API",
-        "projectPath": "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary\\CourseLibrary.API\\CourseLibrary.API.csproj",
+        "projectPath": "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary - Advanced\\CourseLibrary.API\\CourseLibrary.API.csproj",
         "packagesPath": "C:\\Users\\jmcso\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary\\CourseLibrary.API\\obj\\",
+        "outputPath": "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary - Advanced\\CourseLibrary.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
