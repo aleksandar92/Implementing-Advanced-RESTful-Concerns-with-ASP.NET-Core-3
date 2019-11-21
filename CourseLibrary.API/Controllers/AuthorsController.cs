@@ -119,6 +119,7 @@ namespace CourseLibrary.API.Controllers
                     return Url.Link("GetAuthors",
                         new
                         {
+                            orderBy = authorsResourceParameters.OrderBy,
                             pageNumber = authorsResourceParameters.PageNumber - 1,
                             pageSize = authorsResourceParameters.PageSize,
                             mainCategory = authorsResourceParameters.MainCategory,
@@ -128,6 +129,7 @@ namespace CourseLibrary.API.Controllers
                     return Url.Link("GetAuthors",
                         new
                         {
+                            orderBy = authorsResourceParameters.OrderBy,
                             pageNumber = authorsResourceParameters.PageNumber + 1,
                             pageSize = authorsResourceParameters.PageSize,
                             mainCategory = authorsResourceParameters.MainCategory,
@@ -138,6 +140,7 @@ namespace CourseLibrary.API.Controllers
                     return Url.Link("GetAuthors",
                         new
                         {
+                            orderBy = authorsResourceParameters.OrderBy,
                             pageNumber = authorsResourceParameters.PageNumber,
                             pageSize = authorsResourceParameters.PageSize,
                             mainCategory = authorsResourceParameters.MainCategory,
