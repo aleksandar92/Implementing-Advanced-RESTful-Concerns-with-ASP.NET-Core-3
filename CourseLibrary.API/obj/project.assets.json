@@ -5105,21 +5105,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jmcso\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\jmcso\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary - Advanced\\CourseLibrary.API\\CourseLibrary.API.csproj",
+      "projectUniqueName": "D:\\PersonalBranding\\Seglares\\@jmanuelsoberano\\Pluralsight\\CourseLibrary - Advanced\\CourseLibrary.API\\CourseLibrary.API.csproj",
       "projectName": "CourseLibrary.API",
-      "projectPath": "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary - Advanced\\CourseLibrary.API\\CourseLibrary.API.csproj",
+      "projectPath": "D:\\PersonalBranding\\Seglares\\@jmanuelsoberano\\Pluralsight\\CourseLibrary - Advanced\\CourseLibrary.API\\CourseLibrary.API.csproj",
       "packagesPath": "C:\\Users\\jmcso\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary - Advanced\\CourseLibrary.API\\obj\\",
+      "outputPath": "D:\\PersonalBranding\\Seglares\\@jmanuelsoberano\\Pluralsight\\CourseLibrary - Advanced\\CourseLibrary.API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\jmcso\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
