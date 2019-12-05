@@ -16,6 +16,7 @@ namespace CourseLibrary.API.Controllers
 {
     [ApiController]
     [Route("api/authors/{authorId}/[controller]")]
+    [ResponseCache(CacheProfileName = "240SecondsCacheProfile")]
     public class CoursesController : ControllerBase
     {
         private readonly ICourseLibraryRepository _courseLibraryRepository;
